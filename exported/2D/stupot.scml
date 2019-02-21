@@ -32,6 +32,7 @@
         <file id="28" name="face/face-31.png" width="200" height="200" pivot_x="0" pivot_y="1"/>
         <file id="29" name="face/face-32.png" width="200" height="200" pivot_x="0" pivot_y="1"/>
         <file id="30" name="face/face-33.png" width="200" height="200" pivot_x="0.622747" pivot_y="0.570002"/>
+        <file id="33" name="face/face-33.png" width="200" height="200" pivot_x="0.622747" pivot_y="0.570002"/>
     </folder>
     <folder id="1" name="headbase">
         <file id="0" name="headbase/headbase-0.png" width="300" height="300" pivot_x="0.520832" pivot_y="0.186585"/>
